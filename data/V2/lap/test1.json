@@ -1,0 +1,80 @@
+[
+    {
+        "token": [
+            "Other",
+            "than",
+            "not",
+            "being",
+            "a",
+            "fan",
+            "of",
+            "click",
+            "pads",
+            "(",
+            "industry",
+            "standard",
+            "these",
+            "days",
+            ")",
+            "and",
+            "the",
+            "lousy",
+            "internal",
+            "speakers",
+            ",",
+            "it",
+            "'s",
+            "hard",
+            "for",
+            "me",
+            "to",
+            "find",
+            "things",
+            "about",
+            "this",
+            "notebook",
+            "I",
+            "do",
+            "n't",
+            "like",
+            ",",
+            "especially",
+            "considering",
+            "the",
+            "$",
+            "350",
+            "price",
+            "tag",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "internal",
+                    "speakers"
+                ],
+                "from": 18,
+                "to": 20,
+                "polarity": "unknown"
+            },
+            {
+                "term": [
+                    "click",
+                    "pads"
+                ],
+                "from": 7,
+                "to": 9,
+                "polarity": "unknown"
+            },
+            {
+                "term": [
+                    "price",
+                    "tag"
+                ],
+                "from": 42,
+                "to": 44,
+                "polarity": "unknown"
+            }
+        ]
+    }
+]

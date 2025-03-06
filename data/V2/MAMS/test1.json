@@ -1,0 +1,72 @@
+[
+    {
+        "token": [
+            "we",
+            "all",
+            "liked",
+            "the",
+            "brunch",
+            "items",
+            "we",
+            "had",
+            "but",
+            "when",
+            "we",
+            "later",
+            "asked",
+            "if",
+            "the",
+            "chips",
+            "were",
+            "supposed",
+            "to",
+            "come",
+            "with",
+            "the",
+            "meal,",
+            "the",
+            "waitress",
+            "explained",
+            "it",
+            "away",
+            "by",
+            "saying",
+            "sometimes",
+            "they",
+            "forget",
+            "instead",
+            "of",
+            "apologizing",
+            "and",
+            "offering",
+            "something",
+            "extra."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "brunch"
+                ],
+                "from": 4,
+                "to": 5,
+                "polarity": "unknown"
+            },
+            {
+                "term": [
+                    "chips"
+                ],
+                "from": 15,
+                "to": 16,
+                "polarity": "unknown"
+            },
+            {
+                "term": [
+                    "waitress"
+                ],
+                "from": 24,
+                "to": 25,
+                "polarity": "unknown"
+            }
+        ]
+    }
+]
